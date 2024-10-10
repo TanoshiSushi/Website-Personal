@@ -240,7 +240,7 @@ header .intro-text {
 #about .about-img {
 	background: #444 url(../img/About.png) center center no-repeat;
 	background-size: cover;
-	height: 570px;
+	height: 550px;
 }
 #about p {
 	line-height: 24px;
